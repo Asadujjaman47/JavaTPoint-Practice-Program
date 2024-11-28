@@ -1,0 +1,16 @@
+package java_basic.p5.reverse_number;
+
+// Reverse a Number in Java
+// Reverse a number using while loop
+public class ReverseNumberExample1 {
+    public static void main(String[] args) {
+        int number = 987654, reverse = 0;
+        while(number != 0)
+        {
+            int remainder = number % 10;
+            reverse = reverse * 10 + remainder;
+            number = number/10;
+        }
+        System.out.println("The reverse of the given number is: " + reverse);
+    }
+}
