@@ -1,4 +1,4 @@
-package error_and_exception.p4.exception_class;
+package error_exception.p4.exception_class;
 
 // Exception Class in Java
 

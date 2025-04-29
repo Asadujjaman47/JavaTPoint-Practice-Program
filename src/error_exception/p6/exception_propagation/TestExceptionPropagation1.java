@@ -1,4 +1,4 @@
-package error_and_exception.p6.exception_propagation;
+package error_exception.p6.exception_propagation;
 
 // Java Exception Propagation
 // Note: By default Unchecked Exceptions are forwarded in calling chain (propagated).

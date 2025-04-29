@@ -1,4 +1,4 @@
-package error_and_exception.p5.inputMismatchException;
+package error_exception.p5.inputMismatchException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

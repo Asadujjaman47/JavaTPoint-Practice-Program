@@ -1,4 +1,4 @@
-package error_and_exception.p10.avoid_null_pointer_exception;
+package error_exception.p10.avoid_null_pointer_exception;
 
 // avoid null pointer exception in Java
 // Checking arguments of the method
